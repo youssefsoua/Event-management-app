@@ -13,7 +13,7 @@
     "expo-image-picker": "~6.0.0",
     "form-data": "^2.5.0",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.13.5",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
